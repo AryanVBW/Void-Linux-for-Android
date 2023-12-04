@@ -1,7 +1,8 @@
 # VoidMagic 🌌✨
 
 Discover the simplicity and efficiency of Void Linux on your Android device with VoidMagic! 🚀
-
+# installation
+simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) and transform your Android device into a Linux powerhouse effortlessly! 🚀💻📱
 ## 🌟 Key Features:
 
 - **Lightweight Design:** Experience speed and efficiency without compromising functionality.
