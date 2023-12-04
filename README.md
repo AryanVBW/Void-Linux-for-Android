@@ -18,7 +18,7 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
    Experience effortless installation with a single command. Simply copy and paste the following line into your terminal to automatically install all dependencies  seamlessly
    
 ```bash
-   curl -sSL  | bash
+   curl -sSL https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/install.sh | bash
 ```
 
 ## 🤝 Contribution and Support:
