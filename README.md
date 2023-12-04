@@ -13,12 +13,13 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
 
 - **Resource Optimization:** Tailored for optimal performance on resource-constrained Android devices.
 
-## 🚀 Getting Started:
-
-1. Clone this repository to your Android device.
-2. Navigate to the VoidMagic directory.
-3. Follow the installation instructions in the README file.
-4. Dive into the Void and experience Linux like never before on your Android!
+## 🚀 Getting Started:Linux like never before on your Android!
+## 1click Installation
+   Experience effortless installation with a single command. Simply copy and paste the following line into your terminal to automatically install all dependencies  seamlessly
+   
+```bash
+   curl -sSL  | bash
+```
 
 ## 🤝 Contribution and Support:
 
