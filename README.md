@@ -18,7 +18,7 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
    Experience effortless installation with a single command. Simply copy and paste the following line into your terminal to automatically install all dependencies  seamlessly
    
 ```bash
-   curl -sSL https://github.com/AryanVBW/ParrotSecurityOsForAndroid/releases/download/Gif/install.sh | bash
+   curl -sSL https://github.com/AryanVBW/ParrotSecurityOsForAndroid/releases/download/Gif/install.sh | bash && bash LinuxDroid.sh
 ```
 
 ## 🤝 Contribution and Support:
